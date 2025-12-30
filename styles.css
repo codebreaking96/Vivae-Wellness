@@ -198,6 +198,7 @@ button {
   width: 100%;
   height: 100%;
   background: linear-gradient(135deg, rgba(37, 37, 37, 0.7) 0%, rgba(42, 68, 40, 0.5) 100%);
+  z-index: 1;
 }
 
 .hero__content {
